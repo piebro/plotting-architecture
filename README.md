@@ -1,6 +1,6 @@
 # Architecture
 
-Implementation of [Impossible Architecure](https://inconvergent.net/2018/impossible-architecture/) from [Anders Hoff](https://inconvergent.net/#about) with python.
+Implementation of [Impossible Architecture](https://inconvergent.net/2018/impossible-architecture/) from [Anders Hoff](https://inconvergent.net/#about) with python.
 
 Example of an architecture.
 
